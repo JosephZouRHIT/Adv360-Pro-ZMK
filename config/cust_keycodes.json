@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LC(LA(LG(F12)))"
+		],
+		"description": "LC(LA(LG(F12)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
